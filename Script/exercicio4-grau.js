@@ -1,2 +1,3 @@
 const celcius = Number(prompt("Digite a temperatura em graus Celcius:"))
-alert((9*(celcius)+160)/5)
+const resultado = ((9*(celcius)+160)/5)
+alert(resultado)

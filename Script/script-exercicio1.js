@@ -7,7 +7,8 @@
 
 const numero = Number(prompt("digite um número:"))
 const outroNumero = Number(prompt("digite outro número:"))
-alert(numero+outroNumero)
+const resultado = (numero+outroNumero)
+alert(resultado)
 
 // colocar o + entre alguma coisa
 // pedir os números
