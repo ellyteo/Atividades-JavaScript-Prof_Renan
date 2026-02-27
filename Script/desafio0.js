@@ -1,0 +1,5 @@
+const anos = Number(prompt("Digite sua idade:"))
+const meses = (anos*12)
+alert(meses)
+const dias = (anos*365)
+alert(dias)
